@@ -21,7 +21,7 @@ Add script items into `opencode\packages\opencode\package.json`
 
 ## Add `build-js.ts`
 
-(placehold)
+Copy `build-js.ts` to `opencode\packages\opencode\script\build-js.ts`
 
 # Build & Run
 
